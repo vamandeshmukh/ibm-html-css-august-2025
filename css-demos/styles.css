@@ -37,3 +37,23 @@ h3 {
     border-style: solid;
     border-color: blue;
 }
+
+.text-style {
+    color: darkblue;
+    text-align: right;
+    text-shadow: 5px 5px blue;
+    font-size: 3em;
+}
+
+body {
+    background-image: url("https://images.ctfassets.net/hrltx12pl8hq/7nXLWZh2on11f1lzV2bs2h/65bfbcacfb089817e791b2a6d42481eb/02-nature-backgrounds_387062149.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+/* body {
+    background-image: url("C:\\Users\\DELL\\Desktop\\bcg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+} */
