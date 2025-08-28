@@ -4,14 +4,24 @@
 <head>
     <link rel='stylesheet' href='./styles.css'>
 </head>
+<style>
+    .my-style {
+        color: blueviolet;
+    }
+</style>
 
-<body>
+<body class="body-style">
     <h1>HTML with CSS</h1>
     <p>CSS adds style to HTML.</p>
     <hr />
-    <p>sample text</p>
-
-
+    <p style="color: blue;">sample text with inline style</p>
+    <p class="my-style">sample text with internal style</p>
+    <p class="my-style-2">sample <span>some</span> text with external style</p>
+    <p id="my-style-3">sample text with external style</p>
+    <h3>sample text with external style</h3>
+    <p>sample text with external style</p>
+    <p style="font-size: 2em;">sample text with external style</p>
+    <p style="font-size: 72pt;">sample text with external style</p>
 </body>
 
 </html>

@@ -1,0 +1,27 @@
+.my-style-2 {
+    color: brown;
+}
+
+#my-style-3 {
+    color: chartreuse;
+}
+
+p {
+    color: burlywood;
+}
+
+h3 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.body-style {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aqua;
+}
+
+nav a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aqua;
+}
