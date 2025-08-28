@@ -10,9 +10,10 @@
     <hr />
     <p>Rider Registration Form</p>
     <form onsubmit="return false">
-        <input type="text" value="" placeholder="Enter username" required />
-        <input type="password" placeholder="Enter password" value="" />
-        <input type="submit" value="Submit" />
+        <label for="username">Username</label>
+        <input type="text" name="username" value="" placeholder="Enter username" autofocus required />
+        <label for="password">Password</label>
+        <input type="password" name="password" placeholder="Enter password" value="" required />
         <button>Submit</button>
     </form>
 </body>

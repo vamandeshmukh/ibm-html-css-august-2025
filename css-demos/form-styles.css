@@ -1,1 +1,43 @@
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+form {
+    width: 300px;
+    border: 2px;
+    background-color: antiquewhite;
+    border-color: bisque;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
 
+input {
+    width: 100%;
+    font-family: sans-serif;
+    display: block;
+    border-color: gray;
+    border-style: solid;
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px 0;
+}
+
+label {
+    font-family: sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 100%;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: darkblue;
+
+    font-family: sans-serif;
+    background-color: lightblue;
+    color: darkblue;
+    margin: 10px 0;
+    padding: 10px 0;
+}
