@@ -1,6 +1,7 @@
 p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 form {
     width: 300px;
     border: 2px;
@@ -20,7 +21,7 @@ input {
     border-style: solid;
     border-radius: 10px;
     margin: 10px 0;
-    padding: 10px 0;
+    padding: 10px;
 }
 
 label {
