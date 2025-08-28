@@ -1,0 +1,14 @@
+ride-hailing-app/
+    src/ 
+        index.html
+        pages/
+            rider.html 
+            driver.html
+            rides.html 
+            ride-details.html
+        util/
+            db-con.js
+            other.html
+        css/
+            styles.css
+
